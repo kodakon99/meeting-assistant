@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR-RENDER-SERVICE.onrender.com/api/:path*"
+      "destination": "https://meeting-assistant-j25n.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
